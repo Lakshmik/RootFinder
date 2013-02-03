@@ -1,0 +1,520 @@
+	org.drip.math.solver1D.FixedPointFinderBracketing starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FixedPoint=-0.8214002499999999
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.ExecTime=6407
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FixedPoint=-0.821400241272395
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.ExecTime=510
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FixedPoint=NaN
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.ExecTime=600
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FixedPoint=-0.8214002630179871
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.ExecTime=478
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FixedPoint=-0.8214002186678158
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.ExecTime=885
+	org.drip.math.solver1D.FixedPointFinderBracketing=> 8880 (mu-s): 5 / 5 succeeded.
+	org.drip.math.solver1D.FixedPointFinderBracketing ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.ExecTime=379
+
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.ExecTime=368
+	org.drip.math.solver1D.FixedPointFinderNewton=> 747 (mu-s): 2 / 2 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FixedPoint=-0.821400271838651
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.ExecTime=1296
+	org.drip.math.solver1D.FixedPointFinderNewton=> 1296 (mu-s): 1 / 1 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderBracketing starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FixedPoint=-0.8214002499999999
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.ExecTime=320
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FixedPoint=-0.821400241272395
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.ExecTime=279
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FixedPoint=NaN
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.ExecTime=292
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FixedPoint=-0.8214002630179871
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.ExecTime=556
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FixedPoint=-0.8214002186678158
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.ExecTime=553
+	org.drip.math.solver1D.FixedPointFinderBracketing=> 2000 (mu-s): 5 / 5 succeeded.
+	org.drip.math.solver1D.FixedPointFinderBracketing ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.ExecTime=200
+
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.ExecTime=194
+	org.drip.math.solver1D.FixedPointFinderNewton=> 394 (mu-s): 2 / 2 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FixedPoint=-0.821400271838651
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.ExecTime=192
+	org.drip.math.solver1D.FixedPointFinderNewton=> 192 (mu-s): 1 / 1 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderBracketing starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FixedPoint=-0.8214002499999999
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.ExecTime=253
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FixedPoint=-0.821400241272395
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.ExecTime=203
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FixedPoint=NaN
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.ExecTime=251
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FixedPoint=-0.8214002630179871
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.ExecTime=205
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FixedPoint=-0.8214002186678158
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.ExecTime=505
+	org.drip.math.solver1D.FixedPointFinderBracketing=> 1417 (mu-s): 5 / 5 succeeded.
+	org.drip.math.solver1D.FixedPointFinderBracketing ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.ExecTime=142
+
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.ExecTime=133
+	org.drip.math.solver1D.FixedPointFinderNewton=> 275 (mu-s): 2 / 2 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FixedPoint=-0.821400271838651
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.ExecTime=130
+	org.drip.math.solver1D.FixedPointFinderNewton=> 130 (mu-s): 1 / 1 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderBracketing starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FixedPoint=-0.8214002499999999
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.ExecTime=179
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FixedPoint=-0.821400241272395
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.ExecTime=144
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FixedPoint=NaN
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.ExecTime=186
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FixedPoint=-0.8214002630179871
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.ExecTime=130
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FixedPoint=-0.8214002186678158
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.ExecTime=441
+	org.drip.math.solver1D.FixedPointFinderBracketing=> 1080 (mu-s): 5 / 5 succeeded.
+	org.drip.math.solver1D.FixedPointFinderBracketing ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.ExecTime=138
+
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.ExecTime=132
+	org.drip.math.solver1D.FixedPointFinderNewton=> 270 (mu-s): 2 / 2 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FixedPoint=-0.821400271838651
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.ExecTime=197
+	org.drip.math.solver1D.FixedPointFinderNewton=> 197 (mu-s): 1 / 1 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderBracketing starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FixedPoint=-0.8214002499999999
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.ExecTime=547
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FixedPoint=-0.821400241272395
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.ExecTime=120
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FixedPoint=NaN
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.ExecTime=165
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FixedPoint=-0.8214002630179871
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.ExecTime=105
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FixedPoint=-0.8214002186678158
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.ExecTime=402
+	org.drip.math.solver1D.FixedPointFinderBracketing=> 1339 (mu-s): 5 / 5 succeeded.
+	org.drip.math.solver1D.FixedPointFinderBracketing ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.ExecTime=346
+
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.ExecTime=122
+	org.drip.math.solver1D.FixedPointFinderNewton=> 468 (mu-s): 2 / 2 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FixedPoint=-0.821400271838651
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.ExecTime=165
+	org.drip.math.solver1D.FixedPointFinderNewton=> 165 (mu-s): 1 / 1 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderBracketing starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FixedPoint=-0.8214002499999999
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.ExecTime=154
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FixedPoint=-0.821400241272395
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.ExecTime=93
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FixedPoint=NaN
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.ExecTime=141
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FixedPoint=-0.8214002630179871
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.ExecTime=86
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FixedPoint=-0.8214002186678158
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.ExecTime=381
+	org.drip.math.solver1D.FixedPointFinderBracketing=> 855 (mu-s): 5 / 5 succeeded.
+	org.drip.math.solver1D.FixedPointFinderBracketing ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.ExecTime=187
+
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.ExecTime=102
+	org.drip.math.solver1D.FixedPointFinderNewton=> 289 (mu-s): 2 / 2 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FixedPoint=-0.821400271838651
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.ExecTime=94
+	org.drip.math.solver1D.FixedPointFinderNewton=> 94 (mu-s): 1 / 1 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderBracketing starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FixedPoint=-0.8214002499999999
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.ExecTime=137
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FixedPoint=-0.821400241272395
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.ExecTime=93
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FixedPoint=NaN
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.ExecTime=139
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FixedPoint=-0.8214002630179871
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.ExecTime=84
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FixedPoint=-0.8214002186678158
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.ExecTime=396
+	org.drip.math.solver1D.FixedPointFinderBracketing=> 849 (mu-s): 5 / 5 succeeded.
+	org.drip.math.solver1D.FixedPointFinderBracketing ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.ExecTime=107
+
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.ExecTime=102
+	org.drip.math.solver1D.FixedPointFinderNewton=> 209 (mu-s): 2 / 2 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FixedPoint=-0.821400271838651
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.ExecTime=96
+	org.drip.math.solver1D.FixedPointFinderNewton=> 96 (mu-s): 1 / 1 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderBracketing starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FixedPoint=-0.8214002499999999
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.ExecTime=132
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FixedPoint=-0.821400241272395
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.ExecTime=91
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FixedPoint=NaN
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.ExecTime=140
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FixedPoint=-0.8214002630179871
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.ExecTime=89
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FixedPoint=-0.8214002186678158
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.ExecTime=372
+	org.drip.math.solver1D.FixedPointFinderBracketing=> 824 (mu-s): 5 / 5 succeeded.
+	org.drip.math.solver1D.FixedPointFinderBracketing ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.ExecTime=112
+
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.ExecTime=100
+	org.drip.math.solver1D.FixedPointFinderNewton=> 212 (mu-s): 2 / 2 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FixedPoint=-0.821400271838651
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.ExecTime=93
+	org.drip.math.solver1D.FixedPointFinderNewton=> 93 (mu-s): 1 / 1 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderBracketing starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FixedPoint=-0.8214002499999999
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.ExecTime=133
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FixedPoint=-0.821400241272395
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.ExecTime=92
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FixedPoint=NaN
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.ExecTime=138
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FixedPoint=-0.8214002630179871
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.ExecTime=90
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FixedPoint=-0.8214002186678158
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.ExecTime=438
+	org.drip.math.solver1D.FixedPointFinderBracketing=> 891 (mu-s): 5 / 5 succeeded.
+	org.drip.math.solver1D.FixedPointFinderBracketing ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.ExecTime=111
+
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.ExecTime=100
+	org.drip.math.solver1D.FixedPointFinderNewton=> 211 (mu-s): 2 / 2 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FixedPoint=-0.821400271838651
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.ExecTime=97
+	org.drip.math.solver1D.FixedPointFinderNewton=> 97 (mu-s): 1 / 1 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:01 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderBracketing starts at Fri Feb 01 15:02:01 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FixedPoint=-0.8214002499999999
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.BisectionFixedPointFinder.ExecTime=149
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FixedPoint=-0.821400241272395
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.FalsePositionFixedPointFinder.ExecTime=92
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FixedPoint=NaN
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:01 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.QuadraticFixedPointFinder.ExecTime=181
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FixedPoint=-0.8214002630179871
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.FinishTime=Fri Feb 01 15:02:02 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.InverseQuadraticFixedPointFinder.ExecTime=147
+
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FixedPoint=-0.8214002186678158
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.FinishTime=Fri Feb 01 15:02:02 EST 2013
+		org.drip.math.solver1D.FixedPointFinderBracketing.RidderFixedPointFinder.ExecTime=359
+	org.drip.math.solver1D.FixedPointFinderBracketing=> 928 (mu-s): 5 / 5 succeeded.
+	org.drip.math.solver1D.FixedPointFinderBracketing ends at Fri Feb 01 15:02:02 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:02 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.FinishTime=Fri Feb 01 15:02:02 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.BrentFixedPointFinder.ExecTime=88
+
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FixedPoint=-0.8214002719361172
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.FinishTime=Fri Feb 01 15:02:02 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.ZhengFixedPointFinder.ExecTime=112
+	org.drip.math.solver1D.FixedPointFinderNewton=> 200 (mu-s): 2 / 2 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:02 EST 2013
+
+	org.drip.math.solver1D.FixedPointFinderNewton starts at Fri Feb 01 15:02:02 EST 2013
+
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.Success=true
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FixedPoint=-0.821400271838651
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.FinishTime=Fri Feb 01 15:02:02 EST 2013
+		org.drip.math.solver1D.FixedPointFinderNewton.NewtonFixedPointFinder.ExecTime=77
+	org.drip.math.solver1D.FixedPointFinderNewton=> 77 (mu-s): 1 / 1 succeeded.
+	org.drip.math.solver1D.FixedPointFinderNewton ends at Fri Feb 01 15:02:02 EST 2013
+
